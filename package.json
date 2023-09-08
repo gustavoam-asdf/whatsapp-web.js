@@ -1,5 +1,5 @@
 {
-  "name": "@gustavoam-asdf/whatsapp-web",
+  "name": "fork-whatsapp-web",
   "version": "1.0.0",
   "description": "Library for interacting with the WhatsApp Web API ",
   "main": "./index.js",
